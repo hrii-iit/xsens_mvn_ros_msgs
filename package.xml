@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<package format="2">
+
+    <name>xsens_awinda_ros_msgs</name>
+    <version>0.0.1</version>
+
+    <description>xsens_awinda_ros_msgs provides messages for XSens Awinda suit such as link states.</description>
+
+    <maintainer email="mattia.leonori@iit.it">Mattia Leonori</maintainer>
+    <maintainer email="marta.lorenzini@iit.it">Marta Lorenzini</maintainer>
+
+    <license>BSD</license>
+
+    <url>https://github.com/hrii-iit/xsens_awinda_ros_msgs</url>
+    <author email="mattia.leonori@iit.it">Mattia Leonori</author>
+
+    <buildtool_depend>catkin</buildtool_depend>
+
+    <build_depend>message_generation</build_depend>
+    <exec_depend>message_runtime</exec_depend>
+
+    <build_depend>std_msgs</build_depend>
+    <build_depend>geometry_msgs</build_depend>
+
+    <exec_depend>std_msgs</exec_depend>
+    <exec_depend>geometry_msgs</exec_depend>
+
+    <export>
+    </export>
+</package>
