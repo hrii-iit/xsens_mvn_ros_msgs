@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.2)
-project(xsens_awinda_ros_msgs)
+project(xsens_mvn_ros_msgs)
 
 find_package(catkin REQUIRED COMPONENTS 
     message_generation 

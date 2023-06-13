@@ -1,2 +1,2 @@
 Header header
-xsens_awinda_ros_msgs/LinkState[] states
+xsens_mvn_ros_msgs/LinkState[] states
